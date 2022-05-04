@@ -11,7 +11,7 @@ output: pdf_document
 
 ## What?
 
-We are going to look at multiple NFL Passing Data set from the year 2010-2018. They are all seperate data sets.
+We are going to look at multiple NFL Passing Data set from the year 2010-2018. They are all separate data sets.
 
 ## Why?
 
@@ -42,13 +42,24 @@ NFLSeason18 <- read.csv('C:/Users/hmoob/Documents\\pass-2018.csv')
 
 ## Summarizing Data
 
+Here I will look into plotting a few statistics.
+
 ## Distrubution
 
+I want to plot a distribution of passing yards across all the data sets.
+
 ## Regression
+
+I want to visualize any form regression if any.
 
 ## R Markdown
 
 ## Github
 
+I had a lot of trouble trying to commit. I couldn't get it to push through to the web.
+
 
 # Conclusion
+
+I hope to become more fluent with R Markdown as a programming language by the end of this project. I also hope to be able to use a few topics from class as well.
+
